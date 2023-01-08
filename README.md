@@ -1,6 +1,6 @@
 ### Hi there 👋
   
-[![LinkedIn: ffcoelho](https://img.shields.io/badge/-LinkedIn-#0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/ffcoelho/)](https://www.linkedin.com/in/ffcoelho/)
+[![LinkedIn: ffcoelho](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/ffcoelho/)](https://www.linkedin.com/in/ffcoelho/)
   
 ### Technologies and tools
 …I've been working with:
